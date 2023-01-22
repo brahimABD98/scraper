@@ -17,3 +17,9 @@ scrapy genspider <website_name> <website_url>
 ```
 
 2. add a pipline to the spider
+
+### disclaimer : this is for educational purpose only and i am not responsible for any misuse of this code or any damage caused by it
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
