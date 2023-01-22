@@ -16,4 +16,4 @@ scrapy crawl tunisianet
 scrapy genspider <website_name> <website_url>
 ```
 
-2. add the pipline to the spider
+2. add a pipline to the spider
